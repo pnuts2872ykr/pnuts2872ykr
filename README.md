@@ -9,6 +9,6 @@
   <a href="http://twitter.com/pnuts2872ykr">
     <img height="20" src="https://img.shields.io/twitter/follow/pnuts2872ykr?style=social?label=Twitter&logo=twitter&style=flat" />
   </a>
-<a href="">
+<a href="https://www.youtube.com/channel/UC7yTnREo2C210AU-0fo8yRA">
   <img src="https://img.shields.io/youtube/channel/subscribers/UC7yTnREo2C210AU-0fo8yRA?style=social" alt="pnuts2872ykr" />
   </a>

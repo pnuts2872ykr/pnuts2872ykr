@@ -11,8 +11,6 @@
 <a href="https://openyellowos.com/ja/">oYo - Member</a><br>
 <a href="https://tgrgroup.jp/">TGR Group - Member</a>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/vcborn_support"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vcborn_support" /></a></p><br><br>
-<p align="left"> 
   <a href="https://github.com/pnuts2872ykr/">
     <img src="https://img.shields.io/github/followers/pnuts2872ykr?style=social" alt="pnuts2872ykr" />
   </a>

@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm pnuts2872ykr</h1>
+あなたは[![Visitor Count](https://profile-counter.glitch.me/pnuts2872ykr/count.svg)](#)人目の訪問者です。
 <p>なんかみんなここに自己紹介的なの書いてるから自分も書いとく<p>
   <p>自分github使わないのでスコア低いです()</p>
   <p>まずそんなプログラミングできません)))</p>
@@ -8,7 +9,7 @@
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 <h3 align="left">Member:</h3>
 <a href="https://vcborn.com/">VCborn - Leader</a><br>
-<a href="https://ablaze.one/">Ablaze - Member</a><br>
+<a href="https://openyellowos.com/ja/">oYo - Member</a><br>
 <a href="https://tgrgroup.jp/">TGR Group - Member</a>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vcborn_support"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vcborn_support" /></a></p><br><br>
